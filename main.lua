@@ -63,7 +63,7 @@ while true do
 		end
 		--StartGame
 		--Select A Character
-		gManager.updateGameInfo("Game", "Welcome to DanganRoblox! You will now select a character to play as in this story.", true)
+		gManager.updateGameInfo("Game", "Welcome to cluegame! You will now select a character to play as in this story.", true)
 		wait(6)
 		PManager.isHere(contestants)
 		CharacterMenu.resetCharacterTable()
